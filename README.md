@@ -1,4 +1,5 @@
-<h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
+<h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1>
+<h1>Date:</h1>
 <h3>Name: SWATHI D
 <h3>Register Number: 212222230154
 
